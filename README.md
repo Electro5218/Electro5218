@@ -1,5 +1,16 @@
 # 👋 Welcome to My GitHub
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PowerShell](https://img.shields.io/badge/PowerShell-7.3-blue)
+![Bash](https://img.shields.io/badge/Bash-5.2-green)
+![Splunk](https://img.shields.io/badge/Splunk-8.2-orange)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-active-red)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Security%20Engineer-orange)
+![WhiteHats PWR](https://img.shields.io/badge/WhiteHats%20PWR-Pentester-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Cluster-blueviolet)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-lightgrey)
+
 💻 **Security Engineer | SOC Analyst | Pentester | Security Analyst**
 
 ---
