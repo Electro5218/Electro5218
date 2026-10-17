@@ -225,7 +225,7 @@ I learn by **engineering complete systems**, breaking them realistically, and fi
 
 ---
 
-### 🌐 Cisco CCNA *(In progress - started March 2025)*
+### 🌐 Cisco CCNA *(June 2026)*
 - Routing & switching fundamentals
 - Network security & traffic analysis
 - Network design for secure infrastructure environments
